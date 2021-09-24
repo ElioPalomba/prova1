@@ -18,3 +18,6 @@ git remote add origin(command) - 27:54
 git push -u origin master(command) - 28:07
 git clone(command) - 31:00
 git pull(command) - 31:33
+
+
+In effetti sono carine ste note
